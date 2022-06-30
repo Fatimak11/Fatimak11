@@ -14,9 +14,6 @@ Data analizing, Oracle SQL, Power BI, MATLAB, Tableau ,Hadoop
 Management Information Systems - School of Business Administration 
   
 
-## Projects
-  
-- 
 
 
 <!-- ### Footer
