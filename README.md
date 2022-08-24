@@ -7,7 +7,7 @@ DevOps Trainee | Data scientist & analyzer | Web developer
 DevOps Trainee at SDA and Coding Dojo
   
 ### Specialized in
-Data analizing, Oracle SQL, Power BI, MATLAB, Tableau ,Hadoop
+Data analizing, Oracle SQL, Power BI, Tableau 
 [R, Python, Java and web development languages]
 
 ## Education
