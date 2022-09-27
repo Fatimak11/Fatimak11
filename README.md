@@ -1,5 +1,5 @@
 # Fatimah Khamees
-DevOps Trainee | Data scientist & analyzer | Web developer 
+DevOps Trainee | Data scientist & analyzer 
 <div id="webaddress">
 <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=DmwnWrRvwTckRZhvRBrqMMVkZpmbjLFtTCkGJsqbKVrXxmJtXdVqWRGvDLbDbQLQVbfMCrqTDzqL">Fatimakhamees11@gmail.com</a>
 
