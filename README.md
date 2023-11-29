@@ -4,7 +4,7 @@ DevOps Trainee | Data scientist & analyzer
 <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=DmwnWrRvwTckRZhvRBrqMMVkZpmbjLFtTCkGJsqbKVrXxmJtXdVqWRGvDLbDbQLQVbfMCrqTDzqL">Fatimakhamees11@gmail.com</a>
 
 ## Currently
-DevOps Trainee at SDA and Coding Dojo
+DevOps/Sysadmin for Creative Dock
   
 ### Specialized in
 Data analizing, Oracle SQL, Power BI, Tableau 
